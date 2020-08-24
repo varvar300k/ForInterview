@@ -1,0 +1,110 @@
+{
+    "return": {
+        "information": [
+            {
+                "date": 43843.0,
+                "item": 2,
+                "startTime": 0.0,
+                "duration": 0,
+                "endTime": 0.0,
+                "paidTime": 0,
+                "actualStatus": 2,
+                "actualStatusDescription": "",
+                "itemName": "Выходной",
+                "itemType": 0,
+                "comment": ""
+            },
+            {
+                "date": 43852.0,
+                "item": 2,
+                "startTime": 0.0,
+                "duration": 0,
+                "endTime": 0.0,
+                "paidTime": 0,
+                "actualStatus": 2,
+                "actualStatusDescription": "",
+                "itemName": "Выходной",
+                "itemType": 0,
+                "comment": "Ustal, uhoju"
+            },
+            {
+                "date": 43872.0,
+                "item": 4,
+                "startTime": 0.34375,
+                "duration": 765,
+                "endTime": 0.875,
+                "paidTime": 720,
+                "actualStatus": 5,
+                "actualStatusDescription": "Объект не запланирован, так как на данный день уже составлено другое расписание.",
+                "itemName": "12 Обнинск смена Калуга",
+                "itemType": 8502,
+                "comment": ""
+            },
+            {
+                "date": 43893.0,
+                "item": 4,
+                "startTime": 0.34375,
+                "duration": 765,
+                "endTime": 0.875,
+                "paidTime": 720,
+                "actualStatus": 2,
+                "actualStatusDescription": "",
+                "itemName": "12 Обнинск смена Калуга",
+                "itemType": 8502,
+                "comment": ""
+            },
+            {
+                "date": 43894.0,
+                "item": 4,
+                "startTime": 0.34375,
+                "duration": 765,
+                "endTime": 0.875,
+                "paidTime": 720,
+                "actualStatus": 2,
+                "actualStatusDescription": "",
+                "itemName": "12 Обнинск смена Калуга",
+                "itemType": 8502,
+                "comment": "тестовая сессия"
+            },
+            {
+                "date": 43895.0,
+                "item": 2,
+                "startTime": 0.0,
+                "duration": 0,
+                "endTime": 0.0,
+                "paidTime": 0,
+                "actualStatus": 2,
+                "actualStatusDescription": "",
+                "itemName": "Выходной",
+                "itemType": 0,
+                "comment": "test day off"
+            },
+            {
+                "date": 43896.0,
+                "item": 2,
+                "startTime": 0.0,
+                "duration": 0,
+                "endTime": 0.0,
+                "paidTime": 0,
+                "actualStatus": 2,
+                "actualStatusDescription": "",
+                "itemName": "Выходной",
+                "itemType": 0,
+                "comment": ""
+            },
+            {
+                "date": 43922.0,
+                "item": 2,
+                "startTime": 0.0,
+                "duration": 0,
+                "endTime": 0.0,
+                "paidTime": 0,
+                "actualStatus": 2,
+                "actualStatusDescription": "",
+                "itemName": "Выходной",
+                "itemType": 0,
+                "comment": " Лолка  Лолка  Лолка  Лолка  Лолка  Лолка     Лолка  Лолка  Лолка  Лолка  Лолка  Лолка     Лолка  Лолка  Лолка  Лолка  Лолка  Лолка     Лолка  Лолка  Лолка  Лолка  Лолка  Лолка     Лолка  Лолка  Лолка  Лолка  Лолка  Лолка    Test comment 2"
+            }
+        ]
+    }
+}
